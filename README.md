@@ -2,6 +2,8 @@
 .md => marked down
 
 
-git add .
-git commit -m
-git push
+<p> git add .  </p>
+
+<p> git commit -m </p>
+
+<p> git push </p>
